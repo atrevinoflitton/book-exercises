@@ -8,3 +8,16 @@ In your `README.md` document, provide some information about a terminal command 
 - A _list_ of information about the command (i.e., things that it does, or how it can be used).
 
 Note that you can preview this Markdown in Atom to make sure it works correctly.
+
+
+
+#_Markdown, Even though it's not a Command_
+## I have found this useful, I'm sure it will come in handy.
+- I'm also sure I will have to learn some terminal commands pretty soon
+- but I'd like to focus on this while I can
+- there is a good chance I will be learning a non-Microsoft terminal
+- If that's even any different?  
+``getwd()``
+>this markdown really is pretty sweet
+
+### bye for now
